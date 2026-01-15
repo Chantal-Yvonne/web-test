@@ -13,22 +13,6 @@
 /*====================
      NAVIGATION
 ====================== */
-/* Keep transparent over hero */
-/* #navbar {
-  background-color: transparent;
-} */
-
-/* Scrolled state */
-/* #navbar.scrolled {
-  background-color:rgb(5, 21, 27);
-  transition: background-color 0.3s ease;
-} */
-
-/*Shrink padding slightly on scroll */
-/* #navbar.scrolled .container {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-} */
 
 /* When menu is open (always dark) */
 #navbar.menu-open {

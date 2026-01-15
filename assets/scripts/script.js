@@ -16,19 +16,6 @@
     });
   }
 
-// change nav color on scroll
-
-  // let navbar = document.getElementById('navbar');
-
-  // window.addEventListener('scroll', function () {
-  //   if (window.scrollY > 80) {
-  //     navbar.classList.add('scrolled');
-  //   } else {
-  //     navbar.classList.remove('scrolled');
-  //   }
-  // });
-
-
 // SLIDER
 $('.services-slide').slick({
   slidesToShow: 2,
