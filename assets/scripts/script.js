@@ -28,7 +28,10 @@ $('.services-slide').slick({
         {
           breakpoint: 1024, // For tablets
           settings: {
-            slidesToShow: 1
+            slidesToShow: 1,
+              slidesToScroll: 1,
+              
+
           }
         },
         {

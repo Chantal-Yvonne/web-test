@@ -36,7 +36,10 @@
 .custom-next:hover {
   background-color: #c19b5c;
 }
-
+/* TESTIMONIAL SLIDER*/
+.testimonial-cards {
+  height: 300px;
+}
 
 /* FAQ */
 /* hide content by default */
