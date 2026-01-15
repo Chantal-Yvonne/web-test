@@ -21,7 +21,7 @@
 
 /* SERVICE SLIDER */
 .slick-track {
-  height: 550px;
+  height: 500px;
 }
 /* Move slider controls */
 /* .custom-prev {
@@ -34,7 +34,7 @@
 
 .custom-prev:hover,
 .custom-next:hover {
-  background-color: #ddd;
+  background-color: #c19b5c;
 }
 
 
@@ -57,7 +57,7 @@
   top: 50%;
   transform: translateY(-50%);
   font-size: 1.2rem;
-  color: #D6C39D;
+  color: #c19b5c;
 }
 
 /* active icon */
@@ -70,7 +70,7 @@
 
 .faq-item.open .accordion-content {
   display: block;
-  border-bottom: 1px solid #D6C39D;
+  border-bottom: 1px solid #c19b5c;
 }
 
 /* remove double border when open */

@@ -42,16 +42,6 @@ $('.services-slide').slick({
       ]
     });
 
-  
-
-// update the counter every time the slide changes
-$('.services-slide').on('afterChange', function(event, slick, currentSlide){
-  let number = currentSlide + 1;          // slides start at 0
-  let show = ('0' + number).slice(-2);    // always keep 2 digits
-  $('#counter').text(show + ' / 05');     // total slides = 5
-});
-
-
 
   $('.custom-prev').click(function() {
     $('.services-slide').slick('slickPrev');
